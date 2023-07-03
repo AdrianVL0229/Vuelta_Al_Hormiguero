@@ -1,0 +1,1977 @@
+fileFormatVersion: 2
+guid: 6bdab64bef4a8714d8a66ddbc6a538ed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 58
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesBien_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581.8182
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc37009b9661be48aaa01a48daad344
+      internalID: -2072134265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 581.8182
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f420b82e053b1c4f83f4689bda963b2
+      internalID: -1969281710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 581.8182
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f8a434ff67d014b9efee6fab99a55e
+      internalID: 2002397296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 581.8182
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b6f4afc314cec40b1fa7e4583415c9
+      internalID: -1992324365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 581.8182
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29.090912, y: -28.909058}
+        - {x: -1.0909119, y: -0.9090576}
+        - {x: 29.090912, y: 29.090942}
+        - {x: 28.909088, y: -28.909058}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3318483cd31d2fd46bb71d1d01bf48da
+      internalID: 1319778708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 582
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29, y: -29}
+        - {x: -29, y: 29}
+        - {x: -1, y: 0}
+        - {x: 29, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbe58f5b42e3b44fa5bceb25c31433a
+      internalID: -2013725087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523.8182
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa6b67ea8f8f5a4aaa3fc7cf3d09a48
+      internalID: -1035631504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 523.8182
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b11233b844891041b3a750889c50bd4
+      internalID: -1015689210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 523.8182
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e4385e50f0bfc4d845ba2525edd496
+      internalID: 1850577595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 523.8182
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701c5a71b3872524a8dea604ae400d8f
+      internalID: 2125112584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 523.8182
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29.090912, y: -28.909058}
+        - {x: -1.0909119, y: -0.9090576}
+        - {x: 28.909088, y: 29.090942}
+        - {x: 28.909088, y: -29.090881}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2e1281c8611dd46b5af6049402d1e8
+      internalID: 1926118348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 523.8182
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1b59e7db654544999102858c48fff3
+      internalID: 315368120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 524
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d94071b99ee6144ac198bc9fbf7a0a
+      internalID: -252039570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_17
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 524
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29, y: -29}
+        - {x: -29, y: 29}
+        - {x: 1, y: -2}
+        - {x: 29, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f40605f1bc99f44a621460fe434a02
+      internalID: 836988195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465.81818
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449e0b5975890814eb635e7fea2a10d0
+      internalID: 1602211467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 465.81818
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ce49fc480eb4f42ae5f824d4dbfc8a
+      internalID: -202685748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 465.81818
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b014f868063396c43b8678f7e0efb701
+      internalID: 772138590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 465.81818
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b049e465bc569848bfd7306d294d945
+      internalID: 1244967729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_23
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 465.81818
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0.90908813, y: -0.90908813}
+        - {x: -29.090912, y: 29.090912}
+        - {x: 28.909088, y: 29.090912}
+        - {x: 29.090912, y: -29.090912}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28b224fcf2b9db46ae4caaed8a3c74e
+      internalID: -1434896711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_24
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 465.81818
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbb35f3d175f9042ab3adf49113219c
+      internalID: -1476871608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_25
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 466
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfed35fa3d11c46469dfdfdc1c114d77
+      internalID: 709280640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_26
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 466
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29, y: -29}
+        - {x: -29, y: 29}
+        - {x: 29, y: 29}
+        - {x: -2, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625270dadeaa9b7429392917f0e3b7c6
+      internalID: 969310782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407.81818
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ff009505146c4ca42ab22dcde9d03
+      internalID: 43650307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_28
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 407.81818
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a0a13a80f5dc48b73b99cbc82a34d
+      internalID: 1697861920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 407.81818
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f191fb6acb02a944b2d0ba15071daad
+      internalID: -815665718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_30
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 407.81818
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc15ca6a943d6c46965b63da09521c0
+      internalID: 322540727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_33
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 407.81818
+        width: 58.18182
+        height: 58.18182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0.90908813, y: -0.90908813}
+        - {x: -29.090912, y: 29.090912}
+        - {x: 28.909088, y: 29.090912}
+        - {x: 29.090912, y: -29.090912}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d6095b196c80245a34e742724d017d
+      internalID: -1952821011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_34
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 408
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29, y: -29}
+        - {x: -29, y: 29}
+        - {x: 29, y: 29}
+        - {x: -1, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1584f6d7cf48c4ab786c1e5836aed0
+      internalID: -165346642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe3afe55ea52164e953d23af78348ed
+      internalID: -769711322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 349
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e9009495dc1824885116efd0af7c35
+      internalID: -707816780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_38
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 349
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1572384054585c94397f6233a695e456
+      internalID: 513830021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_39
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 349
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfad89d611af8b54f8555b45bf5f82a5
+      internalID: -1453203131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_41
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 348
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29, y: -29}
+        - {x: -2, y: -2}
+        - {x: 29, y: 29}
+        - {x: 29, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee7659ac1264a44c95beafd2c48c5c3
+      internalID: -1047337479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_42
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 348
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29, y: -29}
+        - {x: -29, y: 29}
+        - {x: 2, y: -2}
+        - {x: 29, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1d2b91398b10f46b7682c71a43343a
+      internalID: 1549264248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b80795bf4ca4d4d80ebbb5c1381a7b
+      internalID: -141849938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 291
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecd86f0de16aa74892abca0c3bbf8ef
+      internalID: -409446478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_47
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 291
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e5cffd3adbd8446b6081b7650f92e6
+      internalID: -1323859767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_48
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 291
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c0654ec8f51364585eab82fd2e985b
+      internalID: -194777545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_50
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 290
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29, y: -29}
+        - {x: -2, y: -2}
+        - {x: 29, y: 29}
+        - {x: 29, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e962da94acffb7e4fa405c0d99c1eb71
+      internalID: 85993550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_51
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 290
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102ef1eb3cf1daf4b99d49b639a5649e
+      internalID: 1182605466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_52
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 290
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8118212fb2f0ac44c968741d62905743
+      internalID: 423482697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_53
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 290
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29, y: -29}
+        - {x: -29, y: 29}
+        - {x: 0, y: 0}
+        - {x: 29, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faeccf5c5f9a3341aacfefd33a7e4eb
+      internalID: 469906924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72278bc1e8e481440b83c8f3e64b0ce2
+      internalID: -414910557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_56
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 233
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb82e9f77cbd1e345b6a86ae989d3851
+      internalID: -283959660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 233
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d877514301eb2554d9df18f0dbf20c14
+      internalID: 1749865893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 233
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b6ba0378f94ac41b96d46a37785190
+      internalID: -1848481520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_60
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 232
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -1}
+        - {x: -29, y: 29}
+        - {x: 29, y: 29}
+        - {x: 29, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e92374b159f93f4eb7387a4c962ac43
+      internalID: 510579835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_61
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 232
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758d5c75e908c7d4691832e4980c835b
+      internalID: 1945270450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_62
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 232
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f649837cc9e9aca458e5f5ac543a1845
+      internalID: 1338218875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_63
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 232
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29, y: -29}
+        - {x: -29, y: 29}
+        - {x: 29, y: 29}
+        - {x: -1, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81520bfec589d7439ef5a97bd296a00
+      internalID: 1004702164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_64
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 232
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47191188626e4c74cb7d73199a428c0b
+      internalID: -703999097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_65
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 232
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25df24efc4971644a47144603410744
+      internalID: -857980462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6298fe8439f564c4e8c2111f55ae3400
+      internalID: 1265948094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_67
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 175
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109303250f30db246a1444680172966e
+      internalID: 1519398115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_68
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 175
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a70b7c70c9af3b43994e6a8cf512db4
+      internalID: -182015954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_69
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 175
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e337331bdf52f4fb719127b19344b0
+      internalID: -1198576203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_72
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 174
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 0}
+        - {x: -29, y: 29}
+        - {x: 29, y: 29}
+        - {x: 29, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ccbb44a66a304680eec7e02eee280
+      internalID: -694631086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_73
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 174
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -29, y: -29}
+        - {x: -29, y: 29}
+        - {x: 29, y: 29}
+        - {x: -3, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5454fa9ac28f147a72ec9e26447ea7
+      internalID: 2001365848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_75
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 174
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afe93866bf52074fba5d6d2866e4e03
+      internalID: -1958927060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_76
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 174
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e6918f9fce68d47a7db121fd380193
+      internalID: 1980194921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_86
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 116
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba5669196ded7b499d5720efae0ea5d
+      internalID: 549535163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_87
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 116
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d008c286492886498cba39b169661c8
+      internalID: 1396436257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bf4fc29d028f94b9d708284f8ce26f
+      internalID: 1441948875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_89
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 58
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef33b4d68e0cd040ae2245cec8471eb
+      internalID: 946526673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_90
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 58
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857ca5ee06e13c74385c36f77642e586
+      internalID: -2044541800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_91
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 58
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac777220fecc8cb408f8180c7ad82d3b
+      internalID: -1607664878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_92
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 58
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ebd293227a799449f7bc92df7844ef
+      internalID: -462285973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_93
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 58
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea485c9b0445b8a4b9b2a1f8dacd50f8
+      internalID: -922063508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_94
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 58
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ff053c26913af4692ad0120bf0471e
+      internalID: 1138748299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_95
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 58
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c296b8a11d5bc438443154a6d3436d
+      internalID: 1177381927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_97
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 58
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c8698a68a08da4fabf791dfc249e2e
+      internalID: -371245567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_98
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 58
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd3ea0724405824fa8976890d4864b4
+      internalID: -1669880534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b78fc199443b44d86800d94b09ce93
+      internalID: 772465426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_100
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb6c69b6998c34ebd5540f7b23c88c
+      internalID: 895824948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_101
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68674f9f719175a4fb1d7f7fb70c1097
+      internalID: 1649351305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_102
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d4281c448fcc04db7a3e15e379297c
+      internalID: -1294552563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_103
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b23227dd502cd84ea10c5fa3ff2fd4c
+      internalID: 234720837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_104
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b2480f75893de4ca12e086706f0057
+      internalID: -1971176360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_105
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876a3302a755ca641a49875adccee3cd
+      internalID: -2142253614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesBien_106
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b976571ebd5e4274b9b6d029802d7c3c
+      internalID: 734433259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TilesBien_0: -2072134265
+      TilesBien_1: -1969281710
+      TilesBien_10: -1015689210
+      TilesBien_100: 895824948
+      TilesBien_101: 1649351305
+      TilesBien_102: -1294552563
+      TilesBien_103: 234720837
+      TilesBien_104: -1971176360
+      TilesBien_105: -2142253614
+      TilesBien_106: 734433259
+      TilesBien_107: 848387548
+      TilesBien_108: 2145825209
+      TilesBien_109: 1588931651
+      TilesBien_11: 1850577595
+      TilesBien_12: 2125112584
+      TilesBien_13: 2052219126
+      TilesBien_14: 1926118348
+      TilesBien_15: 315368120
+      TilesBien_16: -252039570
+      TilesBien_17: 836988195
+      TilesBien_18: 1602211467
+      TilesBien_19: -202685748
+      TilesBien_2: 2002397296
+      TilesBien_20: 772138590
+      TilesBien_21: 1244967729
+      TilesBien_22: -1786415108
+      TilesBien_23: -1434896711
+      TilesBien_24: -1476871608
+      TilesBien_25: 709280640
+      TilesBien_26: 969310782
+      TilesBien_27: 43650307
+      TilesBien_28: 1697861920
+      TilesBien_29: -815665718
+      TilesBien_3: -1992324365
+      TilesBien_30: 322540727
+      TilesBien_31: -890122638
+      TilesBien_32: 2071015667
+      TilesBien_33: -1952821011
+      TilesBien_34: -165346642
+      TilesBien_35: 1554247197
+      TilesBien_36: -769711322
+      TilesBien_37: -707816780
+      TilesBien_38: 513830021
+      TilesBien_39: -1453203131
+      TilesBien_4: -1519199295
+      TilesBien_40: 501928011
+      TilesBien_41: -1047337479
+      TilesBien_42: 1549264248
+      TilesBien_43: 640159481
+      TilesBien_44: 1776986936
+      TilesBien_45: -141849938
+      TilesBien_46: -409446478
+      TilesBien_47: -1323859767
+      TilesBien_48: -194777545
+      TilesBien_49: 680092253
+      TilesBien_5: -1100039537
+      TilesBien_50: 85993550
+      TilesBien_51: 1182605466
+      TilesBien_52: 423482697
+      TilesBien_53: 469906924
+      TilesBien_54: -1629992560
+      TilesBien_55: -414910557
+      TilesBien_56: -283959660
+      TilesBien_57: 1749865893
+      TilesBien_58: -1848481520
+      TilesBien_59: -743408565
+      TilesBien_6: 1319778708
+      TilesBien_60: 510579835
+      TilesBien_61: 1945270450
+      TilesBien_62: 1338218875
+      TilesBien_63: 1004702164
+      TilesBien_64: -703999097
+      TilesBien_65: -857980462
+      TilesBien_66: 1265948094
+      TilesBien_67: 1519398115
+      TilesBien_68: -182015954
+      TilesBien_69: -1198576203
+      TilesBien_7: -2013725087
+      TilesBien_70: -181009420
+      TilesBien_71: -392382400
+      TilesBien_72: -694631086
+      TilesBien_73: 2001365848
+      TilesBien_74: -790429975
+      TilesBien_75: -1958927060
+      TilesBien_76: 1980194921
+      TilesBien_77: -1263560765
+      TilesBien_78: -1945380746
+      TilesBien_79: -1774420679
+      TilesBien_8: 1331710740
+      TilesBien_80: -995179266
+      TilesBien_81: -1417619566
+      TilesBien_82: 1311152515
+      TilesBien_83: -1385709925
+      TilesBien_84: 2066994925
+      TilesBien_85: 1833397318
+      TilesBien_86: 549535163
+      TilesBien_87: 1396436257
+      TilesBien_88: 1441948875
+      TilesBien_89: 946526673
+      TilesBien_9: -1035631504
+      TilesBien_90: -2044541800
+      TilesBien_91: -1607664878
+      TilesBien_92: -462285973
+      TilesBien_93: -922063508
+      TilesBien_94: 1138748299
+      TilesBien_95: 1177381927
+      TilesBien_96: -428357645
+      TilesBien_97: -371245567
+      TilesBien_98: -1669880534
+      TilesBien_99: 772465426
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
